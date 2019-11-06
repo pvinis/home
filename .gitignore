@@ -29,6 +29,9 @@
 /.bundle/
 /.anydesk/
 /.appcenter-cli/
+/.rncache/
+/.vscode-cpptools/
+/.vscode/
 
 # other files
 /.bash_history
@@ -63,18 +66,16 @@
 .gitattributes
 .gitlab-runner/
 .gnupg/
-.gnupg_pre_2.1/
-.gradle/
-.hammerspoon/
-.hushlogin
-.hyper.js
-.hyper_plugins/
-.ipfs-desktop/
-.itmstransporter/
-.lesshst
-.littlstream/
-.local/
-.m2/
+
+# .gnupg_pre_2.1/
+# .gradle/
+# .ipfs-desktop/
+# .itmstransporter/
+# .lesshst
+# .littlstream/
+/.local/
+/.m2/
+
 .mackup.cfg
 .mackup/
 .ngrok/
@@ -91,24 +92,9 @@
 .nvm/
 .oracle_jre_usage/
 .react-native-cli/
-.rncache/
-.rndebuggerrc
-.rub
-.rubies/
-.skhdrc
-.spacemacs
-.spacemacs.env
-.ssh/
-.stack/
-.subversion/
-.vim
-.viminfo
-.vimrc_background
-.vnc/
-.volt/
-.vscode-cpptools/
-.vscode/
-.yarnrc
+
+
+
 .zcompdump
 .zhistory
 .zshrc_private
