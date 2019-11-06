@@ -43,27 +43,17 @@
 /.fastlane/
 /.gem/
 /.node-gyp/
+/.npm/
+/Virtual Machines.localized/
+/.oracle_jre_usage/
+/.react-native-cli/
 
 # other files
 /.bash_history
 /.zcompdump
 /.zhistory
-
+/.node_repl_history
 
 
 # temp
-.base16_theme
-.config/base16-shell/
-.config/configstore/
-.config/gatsby/
-.node-red/
-.node_repl_history
-.npm/
-.npmrc
-.nvm/
-.oracle_jre_usage/
-.react-native-cli/
-.zshrc_private
-Library/
-Virtual Machines.localized/
-scripts/
+/Library/
