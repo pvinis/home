@@ -2,6 +2,9 @@
 /Applications/
 /Desktop/
 /Downloads/
+/Documents/
+/Public/
+/Movies/
 /Music/
 /Pictures/
 
@@ -32,10 +35,19 @@
 /.rncache/
 /.vscode-cpptools/
 /.vscode/
+/.gradle/
+/.littlstream/
+/.local/
+/.m2/
+/.expo/
+/.fastlane/
+/.gem/
+/.node-gyp/
 
 # other files
 /.bash_history
-
+/.zcompdump
+/.zhistory
 
 
 
@@ -44,64 +56,14 @@
 .config/base16-shell/
 .config/configstore/
 .config/gatsby/
-.config/git/
-.config/gtk-2.0/
-.config/hub
-.config/inkscape/
-.config/kitty/
-.config/nvim
-.config/nvim_back
-.config/oni/
-.config/rclone/
-.config/sanity/
-.config/thefuck/
-.config/yabai/
-.config/yarn/
-.emacs.d/
-.expo/
-.fastlane/
-.flickrc
-.gem/
-.gemrc
-.gitattributes
-.gitlab-runner/
-.gnupg/
-
-# .gnupg_pre_2.1/
-# .gradle/
-# .ipfs-desktop/
-# .itmstransporter/
-# .lesshst
-# .littlstream/
-/.local/
-/.m2/
-
-.mackup.cfg
-.mackup/
-.ngrok/
-.nix-channels
-.nix-defexpr/
-.nix-profile
-.node-gyp/
 .node-red/
-.node_path
 .node_repl_history
-.nodenv/
 .npm/
 .npmrc
 .nvm/
 .oracle_jre_usage/
 .react-native-cli/
-
-
-
-.zcompdump
-.zhistory
 .zshrc_private
-Brewfile
-Documents/
 Library/
-Movies/
-Public/
 Virtual Machines.localized/
 scripts/
