@@ -66,7 +66,32 @@ Caches
 
 # app support
 /Library/Application Support/0ad/logs
-
+/Library/Application Support/Detox
+/Library/Application Support/Xcode/Archives
+/Library/Application Support/Xcode/DerivedData
+/Library/Application Support/Xcode/Products
+/Library/Application Support/Dictionaries
+/Library/Application Support/Dropbox
+/Library/Application Support/iTunes
+/Library/Application Support/studentd
+/Library/Application Support/Google
+/Library/Application Support/Internet Plug-Ins
+/Library/Application Support/Keyboard
+/Library/Application Support/KeyboardServices
+/Library/Application Support/Keychains
+/Library/Application Support/LanguageModeling
+/Library/Application Support/Logs
+/Library/Application Support/MediaStream
+/Library/Application Support/Personas
+/Library/Application Support/Python
+/Library/Application Support/Quicklook
+/Library/Application Support/Reminders
+/Library/Application Support/Saved Application State
+/Library/Application Support/Spelling
+/Library/Application Support/VirtualBox
+/Library/Application Support/WebKit
+/Library/Application Support/Widgets
+/Library/Application Support/com.apple.internal.ck
 
 # temp
 /Library/Application Support/
