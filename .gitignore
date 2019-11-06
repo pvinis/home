@@ -8,6 +8,7 @@
 # sync stuff
 /Google Drive/
 /Dropbox/
+/.dropbox/
 /Creative Cloud Files/
 /Resilio Sync/
 
@@ -19,7 +20,10 @@
 /.ipfs/
 /.asdf/
 /.android/
+/.docker/
+/.datastorage/
 /.bash_sessions/
+/.configprops/
 /.cocoapods/
 /.cache/
 /.bundle/
@@ -50,16 +54,7 @@
 .config/thefuck/
 .config/yabai/
 .config/yarn/
-.configprops/
-.datastorage/
-.default-gems
-.docker/
-.doingrc
-.dropbox/
 .emacs.d/
-.emulator_console_auth_token
-.eslintignore
-.eslintrc.js
 .expo/
 .fastlane/
 .flickrc
