@@ -11,7 +11,7 @@
 /Creative Cloud Files/
 /Resilio Sync/
 
-# other
+# other dirs
 /Source/
 /Parallels/
 /Virtual Machines/
@@ -23,20 +23,17 @@
 /.cocoapods/
 /.cache/
 /.bundle/
+/.anydesk/
+/.appcenter-cli/
 
-
+# other files
+/.bash_history
 
 
 
 
 # temp
-/
-.aws/
-.babel.json
 .base16_theme
-.bash_history
-.bash_profile
-.chunkwmrc
 .config/base16-shell/
 .config/configstore/
 .config/gatsby/
