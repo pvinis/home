@@ -28,7 +28,6 @@
 /.bash_sessions/
 /.configprops/
 /.cocoapods/
-/.cache/
 /.bundle/
 /.anydesk/
 /.appcenter-cli/
@@ -54,6 +53,20 @@
 /.zhistory
 /.node_repl_history
 
+# cache stuff
+cache
+.cache
+Cache*
+Caches
+
+# library stuff
+/Library/Accessibility/
+/Library/Accounts/
+/Library/Android/
+
+# app support
+/Library/Application Support/0ad/logs
+
 
 # temp
-/Library/
+/Library/Application Support/
