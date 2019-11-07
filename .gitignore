@@ -96,7 +96,71 @@ Caches
 /Library/Application Support/Widgets
 /Library/Application Support/com.apple.internal.ck
 
+# VS Code
+/Library/Application Support/Code/
+!/Library/Application Support/Code/User/settings.json
+
 # temp
-/Library/Application Support/
 /Library/
-!/Library/Application Support/Code
+# !/Library/Application Support/
+/Library/.localized
+/Library/Assistant/
+/Library/Calendars/
+/Library/Colors/
+/Library/Compositions/
+/Library/Containers/
+/Library/CoreFollowUp/
+/Library/DES/
+/Library/Detox/
+/Library/Developer/CoreSimulator/
+/Library/Developer/XCTestDevices/
+/Library/Developer/Xcode/DerivedData/
+/Library/Developer/Xcode/Products/
+/Library/Developer/Xcode/UserData/IB Support/
+/Library/Developer/Xcode/UserData/IDEEditorInteractivityHistory
+/Library/Developer/Xcode/UserData/IDEFindNavigatorScopes.plist
+/Library/Developer/Xcode/UserData/IDELibraryWindowController.xcuserstate
+/Library/Developer/Xcode/UserData/IDEPreferencesController.xcuserstate
+/Library/Developer/Xcode/UserData/KeyBindings
+/Library/Developer/Xcode/UserData/Portal/
+/Library/Developer/Xcode/iOS Device Logs/
+/Library/Developer/Xcode/iOS DeviceSupport/
+/Library/Dictionaries/
+/Library/Dropbox/
+/Library/Family/
+/Library/Favorites/
+/Library/FileProvider/
+/Library/FontCollections/
+/Library/Fonts/
+/Library/FrontBoard/
+/Library/Google/
+/Library/Group Containers/
+/Library/Input Methods/
+/Library/Keyboard/
+/Library/KeyboardServices/
+/Library/Keychains/
+/Library/LanguageModeling/
+/Library/LaunchAgents/
+/Library/Logs/
+/Library/MediaStream/
+/Library/Mobile Documents/
+/Library/MobileDevice/
+/Library/PDF Services
+/Library/Passes/
+/Library/Preferences/
+/Library/Printers/
+/Library/PubSub/
+/Library/Quicklook
+/Library/Reminders/
+/Library/RescueTime.com/
+/Library/Saved Application State/
+/Library/Screen Savers/
+/Library/Scripts
+/Library/Services
+/Library/Speech/
+/Library/Spelling/
+/Library/SyncedPreferences/
+/Library/VirtualBox/
+/Library/WebKit/
+/Library/Workflows
+/Library/com.apple.icloud.searchpartyd/
