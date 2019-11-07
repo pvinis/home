@@ -46,6 +46,9 @@
 /Virtual Machines.localized/
 /.oracle_jre_usage/
 /.react-native-cli/
+/.flipper/
+/.cups/
+/.pm2/
 
 # other files
 /.bash_history

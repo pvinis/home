@@ -7,3 +7,5 @@
 **/.aws/credentials filter=git-crypt diff=git-crypt
 **/.config/hub      filter=git-crypt diff=git-crypt
 **/.ask/**          filter=git-crypt diff=git-crypt
+
+testfile.txt        filter=git-crypt diff=git-crypt
