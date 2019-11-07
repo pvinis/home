@@ -99,3 +99,4 @@ Caches
 # temp
 /Library/Application Support/
 /Library/
+!/Library/Application Support/Code
