@@ -38,6 +38,8 @@ kport() {
 
 alias krn='kport 8081'
 
+alias rmf='rm -rf'
+
 upgradeall() {
 	brew update
 	brew upgrade
@@ -48,6 +50,8 @@ cleanupall() {
 	brew cleanup
 	yarn cache clean
 	rm -rf ~/Library/Developer/Xcode/DerivedData
+	rm -rf ~/Library/Developer/CoreSimulator/Caches
+	rm -rf ~/.gradle/caches
 }
 
 # source /usr/local/share/chruby/chruby.sh

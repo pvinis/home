@@ -1,3 +1,46 @@
+hyper = {"cmd","alt","ctrl"}
+shift_hyper = {"cmd","alt","ctrl","shift"}
+
+hs.loadSpoon("ControlEscape"):start()
+
+hs.loadSpoon("SpoonInstall")
+spoon.SpoonInstall.use_syncinstall = true
+Install=spoon.SpoonInstall
+
+-- Install:andUse("Emojis", {
+--     hotkeys = {
+--         toggle = { hyper, "z" }
+--     },
+-- })
+
+-- Install:andUse("MouseCircle", {
+-- 	hotkeys = {
+-- 		show = { hyper, "z" }
+-- 	}
+-- })
+
+Install:andUse("MicMute", {
+	hotkeys = {
+		toggle = { hyper, "z" }
+	}
+})
+
+Install:andUse("KSheet", {
+	hotkeys = {
+		toggle = { hyper, "/" }
+	}
+})
+
+Install:andUse("FadeLogo",
+               {
+                 config = {
+                   default_run = 1.0,
+                 },
+                 start = true
+               }
+)
+
+
 -- toggle mic on google hangouts
 
 mute = false
