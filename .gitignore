@@ -165,3 +165,4 @@ Caches
 /Library/Workflows
 /Library/com.apple.icloud.searchpartyd/
 .Trash
+.vscode-insiders/extensions

@@ -61,7 +61,7 @@ cleanupall() {
 
 
 alias f='fork'
-alias c='code .'
+alias c='code . || code-insiders .'
 alias cl='clear'
 alias at='adb shell input keyevent 82'
 alias git='hub'
